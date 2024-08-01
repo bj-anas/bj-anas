@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=50&duration=2000&color=20D9E8&background=000000&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=180&lines=Hello!;My+name+is+Anas+Bajji%2C;Welcome+to+my+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=50&duration=2000&color=20D9E8&background=000000&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=200&lines=Hello!;My+name+is+Anas+Bajji%2C;Welcome+to+my+profile)](https://git.io/typing-svg)
